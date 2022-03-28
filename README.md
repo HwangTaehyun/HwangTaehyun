@@ -6,7 +6,7 @@ My name is Taehyun Hwang.
 
 * 🎁 Open source enthusiast. Thanks for the all open source contributors!
 
-* 🏢 I used to work at Tmax OS and Coupang, and now I work at AIRS Medical.
+* 🏢 I used to work at Tmax OS and Coupang, and now I work at [AIRS Medical](https://airs-medical.com/company).
 
 ![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
