@@ -1,7 +1,7 @@
-### Hi there 👋
-
-My name is Taehyun Hwang.
-
+<div style="display:flex; justify-content:center">
+  <img src="https://i.imgur.com/P4FGMoS.png" width=400 />
+</div>
+  
 * 🎨 Frontend engineer who loves React, React Native and Electron.
 
 * 🎁 Open source enthusiast. Thanks for the all open source contributors!
