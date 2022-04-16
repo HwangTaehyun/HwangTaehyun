@@ -1,7 +1,8 @@
-<div style="display:flex; justify-content:center">
-  <img src="https://i.imgur.com/P4FGMoS.png" width=400 />
-</div>
-  
+
+<img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+
+
+  <strong>About me</strong>
 * 🎨 Frontend engineer who loves React, React Native and Electron.
 
 * 🎁 Open source enthusiast. Thanks for the all open source contributors!
