@@ -7,6 +7,8 @@
 
 * 🎁 Open source enthusiast. Thanks for the all open source contributors!
 
+* 🔥 I like the thrill when I make what I want possible!
+
 * 🏢 I used to work at Tmax OS and Coupang, and now I work at [AIRS Medical](https://airs-medical.com/company).
 
 <div>
