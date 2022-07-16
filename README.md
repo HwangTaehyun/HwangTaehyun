@@ -33,7 +33,7 @@
 
 <strong>🏆GitHub Trophies</strong>
 
-![](https://github-profile-trophy.vercel.app/?username=HwangTaehyun&theme=onedark&no-frame=false&no-bg=false)
+![](https://github-profile-trophy.vercel.app/?username=HwangTaehyun&theme=onedark&no-frame=false&no-bg=false?_vercel_no_cache=1)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HwangTaehyun.github.io/)](https://HwangTaehyun.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
