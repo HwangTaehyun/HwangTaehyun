@@ -31,7 +31,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats-e5s3014ve-hwangtaehyun.vercel.app/api?username=HwangTaehyun&hide=B,B+)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B+)
 
 <strong>🏆GitHub Trophies</strong>
 
