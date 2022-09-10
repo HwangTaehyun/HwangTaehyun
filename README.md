@@ -27,11 +27,11 @@
 
 ![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats-qk4obgkyk-hwangtaehyun.vercel.app/api?username=HwangTaehyun&hide=B,B+)
+
 <strong>Top Repositories</strong>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats-qk4obgkyk-hwangtaehyun.vercel.app/api?username=HwangTaehyun&hide=B,B+)
 
 <strong>🏆GitHub Trophies</strong>
 
