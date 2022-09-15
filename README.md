@@ -32,6 +32,7 @@
 <strong>Top Repositories</strong>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=github-contributor-stats&theme=swift)](https://github.com/HwangTaehyun/github-contributor-stats)
 
 <strong>🏆GitHub Trophies</strong>
 
