@@ -5,7 +5,7 @@
   <strong>About me</strong>
 * 🎨 Frontend engineer who loves React, React Native and Electron.
 
-* 🎁 Open source enthusiast. Thanks for the all open source contributors!
+* 🎁 Open source enthusiast. Thanks to all the open source contributors!
 
 * 🔥 I really love the thrill of making what I want possible!
 
