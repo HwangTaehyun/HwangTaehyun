@@ -29,7 +29,7 @@
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B+&theme=swift)
 
-<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/hyochan?date=01" width="600" /></a>
+<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/HwangTaehyun" width="600" /></a>
 
 <strong>Top Repositories</strong>
 
