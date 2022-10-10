@@ -29,6 +29,8 @@
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B+&theme=swift)
 
+<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/hyochan?date=01" width="600" /></a>
+
 <strong>Top Repositories</strong>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
