@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
-  <strong>About me</strong>
+<strong>About me</strong>
+
 * 🎨 Frontend engineer who loves React, React Native and Electron.
 
 * 🎁 Open source enthusiast. Thanks to all the open source contributors!
@@ -25,11 +26,18 @@
 
 <br/>
 
+[![Github Follow](https://img.shields.io/github/followers/HwangTaehyun?label=Follow%20Me&style=social)](https://github.com/HwangTaehyun)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangTaehyun&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<strong>Holopin badges</strong>
+
+[![@taehyunhwang's Holopin board](https://holopin.me/taehyunhwang)](https://holopin.io/@taehyunhwang)
+
+<strong>Github stats</strong>
+
 ![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
 <a href="https://github.com/HwangTaehyun/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B+&theme=swift)</a>
-
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/HwangTaehyun" width="600" /></a>
 
 <strong>Top Repositories</strong>
 
@@ -37,14 +45,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=github-contributor-stats&theme=swift)](https://github.com/HwangTaehyun/github-contributor-stats)
 
-<strong>🏆GitHub Trophies</strong>
+<strong>🏆 Dooboo lab's github stats</strong>
 
-![](https://github-profile-trophy.vercel.app/?username=HwangTaehyun&theme=onedark&no-frame=false&no-bg=false?_vercel_no_cache=1)
+<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/HwangTaehyun" width="600" /></a>
 
-<strong>Stackoverflow Stats</strong>
+<strong>Stackoverflow stats</strong>
 
 <a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=8212847&theme=swift" alt="stack overflow stat"></a>
-
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HwangTaehyun.github.io/)](https://HwangTaehyun.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
