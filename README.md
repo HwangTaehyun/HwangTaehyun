@@ -46,7 +46,7 @@
 
 ![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
-<a href="https://github.com/HwangTaehyun/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B+&theme=swift)</a>
+<a href="https://github.com/HwangTaehyun/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&combine_all_yearly_contributions=true&hide=B,B+&theme=swift)</a>
 
 <strong>Top Repositories</strong>
 
