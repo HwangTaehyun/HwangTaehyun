@@ -56,7 +56,7 @@
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/HwangTaehyun" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
 
 <strong>Stackoverflow stats</strong>
 
